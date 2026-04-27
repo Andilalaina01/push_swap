@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by mamy-and, safidian.*
-
 # push_swap
 
 ## Description
@@ -46,14 +44,6 @@ All sorting operations work with two stacks (A and B):
 ---
 
 ## Instructions
-
-### Installation
-  ```bash
-    git clone git@vogsphere.42antananarivo.mg:vogsphere/intra-uuid-af95e77a-cada-4b16-9dfc-861ef91fde8a-7303446-mamy-and push_swap
-    cd push_swap
-  ```
-
-
 ### Compilation
 
 Build the main program:
@@ -218,21 +208,6 @@ Chunk-based sorting reduces unnecessary rotations by:
 - Scaling better with larger datasets
 
 ---
-
-## Contributors
-
-### safidian
-
-- Architecture and algorithm implementation
-- Stack data structure and operations
-- Strategy implementations (simple, medium, complex, adaptive)
-- Core sorting logic and optimization
-
-### mamy-and
-
-- Input validation and parsing
-- Benchmarking and analysis tools
-- Testing and documentation
 
 ## Resources
 
