@@ -2,7 +2,7 @@
 
 ## Description
 
-**push_swap** is a sorting algorithm project from the 42 curriculum. The goal is to sort a list of integers using a limited set of stack operations, while minimizing the number of moves.
+**push_swap** is a sorting algorithm project. The goal is to sort a list of integers using a limited set of stack operations, while minimizing the number of moves.
 
 The project uses two stacks:
 - **Stack A**: initially contains the unsorted integers
@@ -206,31 +206,3 @@ Chunk-based sorting reduces unnecessary rotations by:
 - Minimizing search distance traversals
 - Allowing parallel operations on both stacks
 - Scaling better with larger datasets
-
----
-
-## Resources
-
-### References
-
-- [**Algorithm Complexity**](https://en.wikipedia.org/wiki/Comparison_sort) - Understanding Big O notation and sorting complexity
-- [**Stack Data Structure**](<https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>) - Fundamental stack concepts
-- [**Sorting Algorithms**](https://en.wikipedia.org/wiki/Sorting_algorithm) - Comprehensive sorting algorithm reference
-- [**42 School Curriculum**](https://42.fr) - Official 42 Network website
-
-
-### AI Usage
-
-**AI was utilized for:**
-
-- **Code review and optimization:** Analyzed algorithm implementations for performance bottlenecks and suggested improvements in rotation sequences
-- **Documentation:** Helped structure technical documentation and algorithm explanations
-- **Testing strategy:** Suggested edge cases and test scenarios for input validation
-- **README creation:** Assisted in organizing technical content and writing clear explanations
-
-**Parts of the project assisted by AI:**
-
-- Algorithm optimization suggestions for the complex and medium strategies
-- Validation logic for edge cases in input parsing
-- Documentation formatting and technical writing
-- Benchmarking output formatting and statistics calculation
